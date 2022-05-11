@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RoSha0
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on smth idk
 - 📫 How to reach me roman.sharay@gmail.com
 
 <!---
