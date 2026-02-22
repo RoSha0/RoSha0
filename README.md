@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RoSha0
-- 👀 I’m interested in programming and passionate automation
+- 👀 I’m interested in programming and passionate about automation
 - 🌱 I’m currently learning LAD
 - 📫 How to reach me roman.sharay@gmail.com
 
